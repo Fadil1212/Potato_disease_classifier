@@ -1,6 +1,21 @@
 # Potato_disease_classifier
 Deep Learning  project 
 
+## some code snippets
+
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/fab276d3-02cb-4a67-83d5-b56fb1d6a9b5)
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/7f780332-d721-43ca-85cf-eaaca76a1f0a)
+
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/d47734d4-7ccd-4a18-bd2f-9a9307dd6083)
+
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/9b735768-2c59-4470-a193-c0cbda53bc05)
+
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/5629352d-6e21-48e1-b4ed-9e650cd76e41)
+
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/9d42694b-d33d-4b5c-8af1-6b9887c15831)
+
+![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/563f33f8-7470-4e88-a672-a6390238ce59)
+
 ## Home page
 ![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/f05a76fc-143a-4385-b8ec-ba12461cad2e)
 
