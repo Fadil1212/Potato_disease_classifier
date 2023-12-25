@@ -15,7 +15,7 @@ Deep Learning  project
 ![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/9d42694b-d33d-4b5c-8af1-6b9887c15831)
 
 ![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/563f33f8-7470-4e88-a672-a6390238ce59)
-
+   # Project
 ## Home page
 ![image](https://github.com/Fadil1212/Potato_disease_classifier/assets/99661887/f05a76fc-143a-4385-b8ec-ba12461cad2e)
 
